@@ -9,7 +9,8 @@
 </p>
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=DiegoRojasGonzalez&icon=3&color=6)](https://visitcount.itsvg.in)
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/DiegoRojasGonzalez/DiegoRojasGonzalez)]()
   
 </div>
